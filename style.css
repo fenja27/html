@@ -4,6 +4,8 @@ body {
 	margin-right:100px;
 	font-size: 24px;
 	font-family: verdana, sans-serif;
+	background-image: url("http://www.v3wall.com/wallpaper/1680_1050/0912/1680_1050_20091215010415426267.jpg");
+	background-position: center;
 }
 
 h2 {
@@ -17,4 +19,18 @@ h2 {
 div {
 	border: 2px;
 	background-color: #EFA9CE;
+	text-align: center;
 }
+
+ol {
+	list-style-type: upper-latin;
+	color: #74132D;
+	font-weight: bold;
+	font-style: oblique;
+}
+
+ul {
+	list-style-type: square;
+	list-style-image: url("http://icons.iconarchive.com/icons/icons8/windows-8/128/Cinema-Batman-New-icon.png");  
+}
+
