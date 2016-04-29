@@ -1,0 +1,20 @@
+body {
+	background-color:#EC7BA3;
+	margin-left:100px;
+	margin-right:100px;
+	font-size: 24px;
+	font-family: verdana, sans-serif;
+}
+
+h2 {
+	color: #3B003B;
+	text-align: center;
+	font-size: 50px;
+	font-family: verdana, sans-serif;
+	text-decoration: underline;
+}
+
+div {
+	border: 2px;
+	background-color: #EFA9CE;
+}
